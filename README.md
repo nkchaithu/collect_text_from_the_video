@@ -1,0 +1,1 @@
+# collect_text_from_the_video
